@@ -1,0 +1,19 @@
+---
+title: Blueberry and Apple "Caviar" Bubbles
+tags:
+  - '"caviar" bubbles'
+  - cooking
+  - food
+  - life
+url: 368.html
+id: 368
+categories:
+  - Informative
+date: 2010-10-04 17:30:57
+---
+
+A couple weeks ago, I saw [this site](http://luxirare.com/parfait/) in one of my Kansas friends' gtalk statuses.  I thought "hey, that seems pretty and cool," so I forwarded it on to most of my local friends.  Much to my surprise, people were really excited about the idea of juice "caviar" beads and were interested in turning it into a project.  Maggie ordered the chemicals we needed to get the juices to gel, and Saturday we got together to experiment. Maggie had found two different recipes to try; one by weight and one by volume.  We used blueberry juice cocktail for our experimentations with the by weight recipe and pure apple cider from the Apple Festival for our by volume recipe. While we succeeded in making juice beads from both recipes, we had to use a lot more sodium alginate and calcium lactate in addition to what was listed in the by weight recipe.  We had much more success with the by volume recipe. [![](http://farm5.static.flickr.com/4130/5050947958_385faa6bbd.jpg "blueberry juice "caviar" beads in solution")](http://www.flickr.com/photos/bubem/5050947958/) [![](http://farm5.static.flickr.com/4111/5050331417_a4f680f844.jpg "making blueberry juice "caviar" beads")](http://www.flickr.com/photos/bubem/5050331417/) The apple cider beads were both less fragile and more flavorful.  The main change I would want to make is getting beads with brighter colors.  I think orange soda beads around Halloween would be a lot of fun.  It sounds like our next attempt might be olive beads, though, so this may be a frequent ongoing project.
+
+[![](http://farm5.static.flickr.com/4154/5050947350_31be05a1d1.jpg "Great success!  Apple Cider "Caviar" Beads")](http://www.flickr.com/photos/bubem/5050947350/)
+
+I tried eating the beads both plain and with plain yogurt.  Because the blueberry ones were less flavorful in the first place, they became even more bland with the edition of yogurt.  I found the apple ones to be so refreshing on their own, I ate them plain and on a cracker (like caviar!  haha, I wish I had taken a picture of that). None of the sites we looked at discussed the storage and longevity of the "caviar" bubbles.  We had the following experience: We drained and stored the bubbles in glass bowls and glasses in the refrigerator.  The apple beads kept well through the next day, until they were eaten.  The blueberry ones turned into a mass of goo in solution after several hours in spite of refrigeration.   Again, this difference seems to be a product of the difference in recipes (and possibly a difference in juice content since the apple had no added water, while the blueberry juice cocktail was mostly water and sugar). Future experimentation will involve different juices/liquids as well as different sizes. **Recipes:** By Weight (via [video linked](http://www.youtube.com/watch?v=VZhTAUwCDW8) from [parfait site](http://luxirare.com/parfait/)): 2g sodium alginate dissolved in 200ml juice 5g calcium lactate dissolved in 500ml water Bring juice mixture to 183F on stove, whisk until there are no flakes and/or bubbles Cool (do not go below 50F) Drip beads into calcium lactate solution and let soak for 3 minutes to create gel skin Drain and store in a cool environment or serve immediately By Volume (via [Wikipedia spherification entry](http://en.wikipedia.org/wiki/Spherification), modified slightly, using calcium lactate instead of calcium chloride): 1 teaspoon of sodium alginate dissolved in 1 cup juice 2 teaspoons calcium lactate dissolved in 2 cups water Bring juice mixture to 183F on stove, whisk until there are no flakes and/or bubbles Cool (do not go below 50F) Drip beads into calcium lactate solution and let soak for 3 minutes to create gel skin Drain and store in a cool environment or serve immediately
